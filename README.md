@@ -170,14 +170,70 @@ npm start
 - ✅ **Filtros de búsqueda** avanzados
 - ✅ **Interfaz intuitiva** y moderna
 
-## 🔧 Configuración Avanzada
+## 🌐 Deployment en Producción
+
+### Opción recomendada (Gratuita)
+
+**Frontend**: Vercel  
+**Backend**: Render
+
+### 1. Desplegar Backend en Render
+
+1. Ve a [render.com](https://render.com) y crea una cuenta
+2. Conecta tu repositorio de GitHub
+3. Crea un nuevo **Web Service**
+4. Configuración:
+   - **Build Command**: `npm install`
+   - **Start Command**: `npm start`
+   - **Environment**: `Node`
+   - **Region**: Cualquiera
+   - **Branch**: `main`
+   - **Root Directory**: `backend`
+
+5. **Variables de entorno** en Render:
+   ```
+   NODE_ENV=production
+   FRONTEND_URL=https://tu-app.vercel.app
+   ```
+
+### 2. Desplegar Frontend en Vercel
+
+1. Ve a [vercel.com](https://vercel.com) y conecta tu GitHub
+2. Importa tu repositorio
+3. Configuración:
+   - **Framework Preset**: Create React App
+   - **Root Directory**: `frontend`
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `build`
+
+4. **Variables de entorno** en Vercel:
+   ```
+   REACT_APP_API_URL=https://tu-backend.onrender.com/api
+   ```
+
+### 3. Actualizar CORS
+
+Una vez desplegado, actualiza la configuración CORS en el backend:
+```javascript
+const corsOptions = {
+  origin: ['https://tu-app.vercel.app'],
+  credentials: true
+};
+```
+
+## 🔧 Configuración Local
 
 ### Variables de Entorno
 Crear archivo `.env` en el backend:
 ```env
 PORT=5000
 NODE_ENV=development
-DB_PATH=./data/psicologia.db
+FRONTEND_URL=http://localhost:3000
+```
+
+Crear archivo `.env.local` en el frontend:
+```env
+REACT_APP_API_URL=http://localhost:5000/api
 ```
 
 ### Base de Datos

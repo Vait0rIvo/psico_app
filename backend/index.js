@@ -16,7 +16,17 @@ const PORT = process.env.PORT || 5000;
 
 // Middlewares
 app.use(helmet());
-app.use(cors());
+
+// Configuración CORS para producción
+const corsOptions = {
+  origin: process.env.NODE_ENV === 'production' 
+    ? [process.env.FRONTEND_URL || 'https://your-frontend-domain.vercel.app']
+    : ['http://localhost:3000'],
+  credentials: true,
+  optionsSuccessStatus: 200
+};
+
+app.use(cors(corsOptions));
 app.use(morgan('combined'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -35,7 +45,8 @@ app.get('/api/health', (req, res) => {
   res.json({ 
     status: 'OK', 
     message: 'Servidor de psicología funcionando correctamente',
-    timestamp: new Date().toISOString()
+    timestamp: new Date().toISOString(),
+    environment: process.env.NODE_ENV || 'development'
   });
 });
 
@@ -50,9 +61,10 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Error interno del servidor' });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 Servidor ejecutándose en puerto ${PORT}`);
   console.log(`📋 Health check disponible en: http://localhost:${PORT}/api/health`);
+  console.log(`🌍 Entorno: ${process.env.NODE_ENV || 'development'}`);
 });
 
 module.exports = app; 
