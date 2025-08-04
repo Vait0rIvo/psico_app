@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Ana",
+    "apellido": "García",
+    "email": "ana.garcia@psicologo.com",
+    "telefono": "+54 11 1234-5678",
+    "especialidades": [
+      "Ansiedad",
+      "Depresión",
+      "Terapia Cognitivo Conductual"
+    ],
+    "descripcion": "Psicóloga especializada en trastornos de ansiedad y depresión con más de 10 años de experiencia. Enfoque cognitivo-conductual.",
+    "experiencia": "Más de 10 años de experiencia en psicología clínica",
+    "educacion": "Licenciada en Psicología - Universidad de Buenos Aires, Máster en Terapia Cognitivo Conductual",
+    "precioBase": 8000,
+    "foto": "/uploads/ana-garcia.jpg",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "activo": true,
+    "id": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "createdAt": "2025-08-04T12:22:23.940Z"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "email": "carlos.rodriguez@psicologo.com",
+    "telefono": "+54 11 2345-6789",
+    "especialidades": [
+      "Terapia de Pareja",
+      "Terapia Familiar",
+      "Trauma"
+    ],
+    "descripcion": "Especialista en terapia sistémica familiar y de pareja. Enfoque humanístico y sistémico.",
+    "experiencia": "8 años especializándose en terapia familiar y de pareja",
+    "educacion": "Licenciado en Psicología - Universidad Católica Argentina, Posgrado en Terapia Sistémica",
+    "precioBase": 9000,
+    "foto": "/uploads/carlos-rodriguez.jpg",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "activo": true,
+    "id": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "createdAt": "2025-08-04T12:22:23.941Z"
+  },
+  {
+    "nombre": "María",
+    "apellido": "López",
+    "email": "maria.lopez@psicologo.com",
+    "telefono": "+54 11 3456-7890",
+    "especialidades": [
+      "Psicología Infantil",
+      "Trastornos Alimentarios",
+      "Autoestima"
+    ],
+    "descripcion": "Psicóloga infantil con especialización en trastornos alimentarios y desarrollo de autoestima en niños y adolescentes.",
+    "experiencia": "12 años trabajando con niños y adolescentes",
+    "educacion": "Licenciada en Psicología - Universidad del Salvador, Especialización en Psicología Infantil",
+    "precioBase": 7500,
+    "foto": "/uploads/maria-lopez.jpg",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "activo": true,
+    "id": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "createdAt": "2025-08-04T12:22:23.941Z"
+  },
+  {
+    "nombre": "Roberto",
+    "apellido": "Fernández",
+    "email": "roberto.fernandez@psicologo.com",
+    "telefono": "+54 11 4567-8901",
+    "especialidades": [
+      "Adicciones",
+      "Trauma",
+      "Terapia Cognitivo Conductual"
+    ],
+    "descripcion": "Especialista en tratamiento de adicciones y trauma. Amplia experiencia en rehabilitación y recuperación.",
+    "experiencia": "15 años en tratamiento de adicciones y trauma",
+    "educacion": "Licenciado en Psicología - Universidad de Belgrano, Máster en Adicciones",
+    "precioBase": 9500,
+    "foto": "/uploads/roberto-fernandez.jpg",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "activo": true,
+    "id": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "createdAt": "2025-08-04T12:22:23.942Z"
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Martínez",
+    "email": "laura.martinez@psicologo.com",
+    "telefono": "+54 11 5678-9012",
+    "especialidades": [
+      "Ansiedad",
+      "Autoestima",
+      "Terapia de Pareja"
+    ],
+    "descripcion": "Psicóloga con enfoque integrativo, especializada en trastornos de ansiedad y fortalecimiento de la autoestima.",
+    "experiencia": "6 años de práctica clínica privada",
+    "educacion": "Licenciada en Psicología - Universidad Argentina J.F. Kennedy",
+    "precioBase": 7000,
+    "foto": "/uploads/laura-martinez.jpg",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "activo": true,
+    "id": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "createdAt": "2025-08-04T12:22:23.942Z"
+  }
+]

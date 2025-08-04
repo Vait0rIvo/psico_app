@@ -1,0 +1,52 @@
+[
+  {
+    "id": "5df39e09-63c7-4c2c-82d5-cf8f204c23b6",
+    "nombre": "Ansiedad",
+    "descripcion": "Tratamiento de trastornos de ansiedad"
+  },
+  {
+    "id": "02211060-24f8-4e52-8be8-1f1cb9d430c8",
+    "nombre": "Depresión",
+    "descripcion": "Tratamiento de trastornos depresivos"
+  },
+  {
+    "id": "c132b59b-c581-400c-bf13-0813fe278360",
+    "nombre": "Terapia de Pareja",
+    "descripcion": "Counseling y terapia para parejas"
+  },
+  {
+    "id": "870075c9-cdc7-4dd5-98df-7f87187008a9",
+    "nombre": "Terapia Familiar",
+    "descripcion": "Terapia sistémica familiar"
+  },
+  {
+    "id": "b96ac173-265e-4967-8919-93660a86f7f3",
+    "nombre": "Trauma",
+    "descripcion": "Tratamiento de PTSD y trauma"
+  },
+  {
+    "id": "27028de7-3913-4fa5-aaf4-fb74b7f55f59",
+    "nombre": "Adicciones",
+    "descripcion": "Tratamiento de adicciones"
+  },
+  {
+    "id": "01938009-aebf-4994-aba7-d60a873ab97c",
+    "nombre": "Trastornos Alimentarios",
+    "descripcion": "Tratamiento de TCA"
+  },
+  {
+    "id": "b96de538-0a04-485e-8e78-7bd9fb629019",
+    "nombre": "Terapia Cognitivo Conductual",
+    "descripcion": "TCC"
+  },
+  {
+    "id": "c7038bca-85b2-434a-9a75-06905e626645",
+    "nombre": "Psicología Infantil",
+    "descripcion": "Psicología para niños y adolescentes"
+  },
+  {
+    "id": "3da98ca7-f3ce-4bd8-a5d7-ae429bb6a099",
+    "nombre": "Autoestima",
+    "descripcion": "Fortalecimiento de la autoestima"
+  }
+]

@@ -1,0 +1,1227 @@
+[
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "79ebfecf-83d8-4d38-afcc-a466c1f52049",
+    "createdAt": "2025-08-04T12:22:23.945Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "36fc83e5-1edd-4c4b-8f3e-ed3d5d40f29c",
+    "createdAt": "2025-08-04T12:22:23.946Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "ac36cfa4-b953-4a08-a280-07c7216b9dc7",
+    "createdAt": "2025-08-04T12:22:23.946Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "17777623-140e-4645-97f4-831ab55d9728",
+    "createdAt": "2025-08-04T12:22:23.947Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "f7c30b3b-db98-41f9-8652-f9217776276c",
+    "createdAt": "2025-08-04T12:22:23.948Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "64645534-b871-4197-ad7d-b3ac71767aca",
+    "createdAt": "2025-08-04T12:22:23.948Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "22a3fed5-2213-4ef6-8604-e0e71c06572a",
+    "createdAt": "2025-08-04T12:22:23.948Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "b06f5f67-091f-48fd-ba09-af85d99bad35",
+    "createdAt": "2025-08-04T12:22:23.949Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "aafdddfc-9b88-4a79-8874-37281806fa8a",
+    "createdAt": "2025-08-04T12:22:23.949Z"
+  },
+  {
+    "psicologoId": "9f4a45c7-27de-4049-99fe-c6262cc50802",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 8000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 8000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "25dd15ce-b8ad-4342-870e-4d28037e0c61",
+    "createdAt": "2025-08-04T12:22:23.950Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "443fa86b-ec33-4207-94ac-549ff869742a",
+    "createdAt": "2025-08-04T12:22:23.950Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "531398b9-a1c6-491c-b04d-a996a7190969",
+    "createdAt": "2025-08-04T12:22:23.951Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "52752784-b495-47b0-927e-1ef7877d1bd9",
+    "createdAt": "2025-08-04T12:22:23.951Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "90a41fa7-217b-4c4b-afbf-a7700f729f5c",
+    "createdAt": "2025-08-04T12:22:23.952Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "90988c4b-ccad-4e49-9ebe-2af7a55065c8",
+    "createdAt": "2025-08-04T12:22:23.952Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "62d5cf0e-401e-468b-89e7-3dd886ecb47b",
+    "createdAt": "2025-08-04T12:22:23.953Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "4a12cb23-fd17-4c76-bbe3-1118436a4c07",
+    "createdAt": "2025-08-04T12:22:23.953Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "21b4ce6a-6e82-4a64-8656-c5f525e24cc2",
+    "createdAt": "2025-08-04T12:22:23.954Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "042ec8e4-8005-4599-b79e-65e1488e5143",
+    "createdAt": "2025-08-04T12:22:23.954Z"
+  },
+  {
+    "psicologoId": "13ea655d-64b8-4fb6-b2da-96e0c7b32bef",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9000
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "03ea0198-bba4-441b-901c-26c4982681cf",
+    "createdAt": "2025-08-04T12:22:23.955Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "5bb4c014-5231-46a7-89cc-7fa14d7a8ade",
+    "createdAt": "2025-08-04T12:22:23.956Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "bcf095fa-c49a-4dfa-a55e-f5ae04017f95",
+    "createdAt": "2025-08-04T12:22:23.956Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "7f96f032-db4d-401a-ae0c-668edadea8a8",
+    "createdAt": "2025-08-04T12:22:23.956Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "fb3047df-c52d-4c8a-9c97-67f62f7813f1",
+    "createdAt": "2025-08-04T12:22:23.957Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "8bc3d3f2-c3bb-4e9d-ac86-c5c4f9fe85a3",
+    "createdAt": "2025-08-04T12:22:23.957Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "15529b46-2d0d-4a52-a1f7-8b4d61c106e9",
+    "createdAt": "2025-08-04T12:22:23.958Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "ccaf1cd3-36e4-4560-b73e-85e322099ddb",
+    "createdAt": "2025-08-04T12:22:23.958Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "7861beda-d225-4fc2-869c-31a90371bf90",
+    "createdAt": "2025-08-04T12:22:23.959Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "f1e69f99-6fdf-4710-a095-83a2e9c431b1",
+    "createdAt": "2025-08-04T12:22:23.959Z"
+  },
+  {
+    "psicologoId": "399d9340-ef8d-4df5-b084-0c314b0a3f61",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 7500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 7500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "67a4b6a4-4056-43f6-80a4-fbba824145df",
+    "createdAt": "2025-08-04T12:22:23.960Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "63770684-996a-45c8-93ba-47075e6b9c49",
+    "createdAt": "2025-08-04T12:22:23.961Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "fac2df41-c909-4309-a364-31f442f7c44d",
+    "createdAt": "2025-08-04T12:22:23.961Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "0cb6237a-d380-4532-aa07-0f1b0e114341",
+    "createdAt": "2025-08-04T12:22:23.962Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "83da0f56-8e4d-464a-8077-3a250663ddc8",
+    "createdAt": "2025-08-04T12:22:23.962Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "edbfbd0a-9ee8-4b25-8178-f3003379068d",
+    "createdAt": "2025-08-04T12:22:23.963Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "1fd20491-493c-463b-a366-0c24eda179dc",
+    "createdAt": "2025-08-04T12:22:23.963Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "c4df9530-cca3-4c41-bd7f-c7e04ec0543d",
+    "createdAt": "2025-08-04T12:22:23.964Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "a4d9e740-c0f7-4046-b433-dc78c59d53fb",
+    "createdAt": "2025-08-04T12:22:23.964Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "9c8a489c-eb46-4aa0-b67e-35f86fbe9e32",
+    "createdAt": "2025-08-04T12:22:23.965Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "31b39c54-08f1-4fc9-9f1c-22792c851121",
+    "createdAt": "2025-08-04T12:22:23.965Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "c7b12826-0215-4713-a3e0-9d4ed6ad4b4a",
+    "createdAt": "2025-08-04T12:22:23.966Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "11a63c04-1fd7-4148-894c-814f59d978aa",
+    "createdAt": "2025-08-04T12:22:23.966Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "09:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "10:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "11:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "fc3430eb-3f1a-4a92-8630-8cd4baee67f3",
+    "createdAt": "2025-08-04T12:22:23.967Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "8da6129b-4dc0-4f1e-976b-8e6cf58451e5",
+    "createdAt": "2025-08-04T12:22:23.967Z"
+  },
+  {
+    "psicologoId": "d5c2d58f-adba-4823-a4d7-f1ab7d48ff8b",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "19:00",
+        "duracion": 50,
+        "precio": 9500
+      },
+      {
+        "hora": "20:00",
+        "duracion": 50,
+        "precio": 9500
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "3419206a-c79b-4d50-83e0-6a490c528ddf",
+    "createdAt": "2025-08-04T12:22:23.968Z"
+  },
+  {
+    "psicologoId": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "diaSemana": "monday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 7000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "85a9351e-a749-4f28-859f-f89ca1ab80fb",
+    "createdAt": "2025-08-04T12:22:23.969Z"
+  },
+  {
+    "psicologoId": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "diaSemana": "tuesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 7000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "26f5cafe-5d75-49db-9c61-909728a120d2",
+    "createdAt": "2025-08-04T12:22:23.969Z"
+  },
+  {
+    "psicologoId": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "diaSemana": "wednesday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 7000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "406a1e59-5ed0-4a32-985d-adf7b5dc8a97",
+    "createdAt": "2025-08-04T12:22:23.970Z"
+  },
+  {
+    "psicologoId": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "diaSemana": "thursday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 7000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "d211b8f4-36fc-49cd-96fe-b70c9e37b7c1",
+    "createdAt": "2025-08-04T12:22:23.971Z"
+  },
+  {
+    "psicologoId": "abfa7e35-7afd-4f50-8afd-61fa8c7130ed",
+    "diaSemana": "friday",
+    "slots": [
+      {
+        "hora": "14:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "15:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "16:00",
+        "duracion": 50,
+        "precio": 7000
+      },
+      {
+        "hora": "17:00",
+        "duracion": 50,
+        "precio": 7000
+      }
+    ],
+    "timezone": "America/Argentina/Buenos_Aires",
+    "id": "143d8115-f1f5-4849-8773-6945420fbc74",
+    "createdAt": "2025-08-04T12:22:23.971Z"
+  }
+]
